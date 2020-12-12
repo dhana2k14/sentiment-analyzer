@@ -1,0 +1,5 @@
+setuptools==41.0.0
+nlp_architect
+Flask
+nltk
+zipfile36
